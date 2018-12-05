@@ -26,9 +26,9 @@ _Text_      Displays text in italics
 #############
 1. item1    First ordered list item
 2. item2    Second ordered list item
-⋅⋅1. Item      Ordered sub-list item
+	1. Item      Ordered sub-list item
 * Item      Unordered list item
-⋅⋅* Item       Unordered sub-list item
+	* Item       Unordered sub-list item
 
 #### Links ##
 #############
